@@ -1,13 +1,10 @@
-# HandMotionAndGesture
-Computer vision project
-
-        Handimatronics: Controlling Robots with Your Hand
+# Handimatronics: Controlling Robots with Your Hand
 
 This project uses the Lucas Kanade optical flow Method with gesture
 recognition to produce Robot Motion using the MyroC Library.
 
 
-                   Description of Project
+ ###                  Description of Project
 
 Our motivation for this project was to control a robot with our hands,
 where we needed to utilize computer vision. To solve this problem, we
@@ -39,7 +36,7 @@ written report attached with this README file.
 Learn more about MyroC: https://walker.cs.grinnell.edu/MyroC/
 
 
-                   Installation of the Project
+###                   Installation of the Project
 
 Handimatronics requires access to MATLAB, as all of the code is built in
 MATLAB. In addition, the package, Webcam Support from MATLAB, is required
@@ -51,7 +48,7 @@ will be needed as well.
 
 
 
-                       Use of Project
+###                       Use of Project
                        
 After installation, you will need to adjust the setenv and mex functions
 to point to the directory where your MyroC was installed, essentially
