@@ -1,10 +1,10 @@
 # Handimatronics: Controlling Robots with Your Hand
 
 This project is a class project collaboratively developed by Michael O'Connor
-and Yuxin (Kevin) Peng in Fall 2022 for CSC-262 Computer Vision instructed by
-Jerod Weinman as the final class project. It uses the Lucas Kanade optical 
-flow Method with gesture recognition to control Robot Motion using the MyroC 
-Library.
+and Yuxin (Kevin) Peng in Fall 2022 at Grinnell College for CSC-262 Computer 
+Vision instructed by Jerod Weinman as the final class project. It uses the 
+Lucas Kanade optical flow Method with gesture recognition to control Robot 
+Motion using the MyroC Library.
 
 
  ###                  Description of Project
