@@ -1,7 +1,10 @@
 # Handimatronics: Controlling Robots with Your Hand
 
-This project uses the Lucas Kanade optical flow Method with gesture
-recognition to produce Robot Motion using the MyroC Library.
+This project is a class project collaboratively developed by Michael O'Connor
+and Yuxin (Kevin) Peng in Fall 2022 for CSC-262 Computer Vision instructed by
+Jerod Weinman as the final class project. It uses the Lucas Kanade optical 
+flow Method with gesture recognition to control Robot Motion using the MyroC 
+Library.
 
 
  ###                  Description of Project
@@ -44,7 +47,9 @@ as it connects the cameras to MATLAB and allows for the process to
 happen. Finally, the MyroC library will need to be installed (from the
 link provided above) with a Scribbler 2 Robot as we used this library for
 a robot and robot motion. After this, installation of our code library
-will be needed as well.
+will be needed as well. **If Scribbler 2 Robot and/or MyroC library is not 
+available, you could use the classDemo.m to run our code with hand motion 
+and gesture recognition only**
 
 
 
